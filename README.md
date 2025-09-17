@@ -67,5 +67,11 @@ You don’t need to modify existing code to add a new drink; just extend the `Dr
 
 ---
 
-## 📂 Folder Structure  
+## 🚀 How to Run
+git clone https://github.com/your-username/smart_ahwa_manager.git
+cd smart_ahwa_manager
+## Install dependencies
+flutter pub get
+## Run the app on an emulator or real device
+flutter run
 
